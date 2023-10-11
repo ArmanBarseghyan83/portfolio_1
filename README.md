@@ -8,6 +8,8 @@ This portfolio project taught me how to use flexbox, media queries and CSS varia
 
 On the navigation bar there are buttons. Clicking on the buttons takes you to its corresponding section. On the work section clicking on the picture of the project will take to that project website. For contacting me you can click the links on the contact me section.
 
+Go to [Portfolio](https://armanbarseghyan83.github.io/portfolio_1/)
+
 ![website screenshot](assets/images/portfolio.png)
 
 ## Credits
